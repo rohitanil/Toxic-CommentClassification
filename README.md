@@ -12,8 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 5. Numpy
 
 ## Datasets
-One can download the datasets from [Kaggle]( https:/
-/www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
+One can download the datasets from [Kaggle]( www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
 ## Installation
 1. Clone Multichannel.py to your local system.
