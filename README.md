@@ -1,5 +1,5 @@
 # Toxic-Comment-Classification
-A multi channel CNN + GRU model for toxic comment classification. This model got 0.071 on the Kaggle Leaderboard for the Toxic Comment Classification Challenge.
+A multi channel CNN + GRU model for toxic comment classification. Blended outputs from this model and several other models. Currently in top 12% in Kaggle's Toxic Comment Classification Challenge.[Leaderboard]( https://www.kaggle.com/rohitanil)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
